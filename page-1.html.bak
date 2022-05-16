@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head> 
+<head>
 <title>Travel Agency</title>
  </head>
  <body>
@@ -13,25 +13,26 @@
  <tr>
  <td>
  <center>
- <a href="BUSINESS.css"> <img src="webproject1/BUSINESS.jpg" alt="a BUSINESS trips" style="width:150px;height:150px;" > 
+ <a href="BUSINESS.css"> <img src="webproject1/BUSINESS.jpg" alt="a BUSINESS trips" style="width:150px;height:150px;" >
  </a>
- </center> 
+ </center>
  </td>
  <td>
  <center>
- <a href="medical.css"> <img src="webproject1/medical.jpg" alt="a medical trips" style="width:150px;height:150px;" > 
+ <a href="medical.css"> <img src="webproject1/medical.jpg" alt="a medical trips" style="width:150px;height:150px;" >
  </a>
- </center> 
+ </center>
  </td>
- 
+
  <td>
  <center>
- <a href="tourist.css"> <img src="webproject1/tourist.jpg" alt="a tourist trips" style="width:150px;height:150px;" > 
+ <a href="tourist.css"> <img src="webproject1/tourist.jpg" alt="a tourist trips" style="width:150px;height:150px;" >
  </a>
- </center> 
+ </center>
  </td>
- 
+
  </table>
+
  </body>
- 
+
  </html>
