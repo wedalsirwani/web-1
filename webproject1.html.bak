@@ -2,10 +2,10 @@
 <html>
 <head> 
 <title>Travel Agency</title>
-<link rel="stylsheet" href="style.css"/>
+<link rel="stylesheet" href="Mystyle.css">
  </head>
  <body>
- <h1 class="header">DESERT TRAVEL AGENCY</h1>
+ <div class="header">DESERT TRAVEL AGENCY</div>
 
 <br>
 
