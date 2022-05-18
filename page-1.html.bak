@@ -2,11 +2,7 @@
 <html>
 <head>
 <title>Travel Agency</title>
-
-<style>
-
-</style>
-
+<link rel="stylsheet"  href="style.css" />
 </head>
  
 <body>
