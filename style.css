@@ -158,7 +158,7 @@ top:0;
 }
 
 .body1{
-background-image:url("airplane.jpeg");
+background-image:url("image/airplane.jpg");
 background-repeat:no-repeat;
 background-attachment:fixed;
 background-size:cover;
@@ -166,7 +166,7 @@ transition:all 0.9s;
 height:600px;
 }
 .body1:hover{
-background-image:url("river.jpeg");
+background-image:url("image/river.jpg");
 background-repeat:no-repeat;
 background-attachment:fixed;
 background-size:cover;
