@@ -2,7 +2,6 @@
     padding: 0;
     margin: 0;
     font-family: sans-serif
-	
 }
 
 body {
@@ -32,9 +31,7 @@ float:left;
 top:0;
 }
 
-
 .container {
-    
     text-align: center;
     position: absolute;
     top: 50%;
@@ -44,7 +41,6 @@ top:0;
 }
 
 .container span {
-    
     text-transform: uppercase;
     display: block
 }
@@ -93,7 +89,6 @@ top:0;
     margin-bottom: 30px;
     position: relative;
     animation: text 3s 1
-    
 }
 
 .text4 {
@@ -136,27 +131,25 @@ top:0;
     
 }
 
+
+
+
+
+
 @keyframes text {
-    
     0% {
-        
         color: #000;
         margin-bottom: -40px
     }
-    
     30% {
-        
         letter-spacing: 25px;
         margin-bottom: -40px
     }
-    
     85% {
-        
         letter-spacing: 8px;
         margin-bottom: -40px
     }
 }
-
 .body1{
 background-image:url("image/airplane.jpg");
 background-repeat:no-repeat;
