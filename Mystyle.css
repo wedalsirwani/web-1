@@ -5,12 +5,16 @@
 	
 }
 
-body {
+body{
+    background-color:rgba(66, 201, 187, 0.425);
+    opacity: 1,5;
+}
+
+.p1-container{
 background-image: url('image/background.jpg');
-height: 100%; 
-background-position: center;
 background-repeat: no-repeat;
-background-size: cover;
+background-attachment: fixed; 
+background-size: 100% 100%;
 }
 
 .header{
@@ -67,8 +71,6 @@ top:0;
 
 .text2 {
     color: black;
-	
-	
     font-size: 20px;
 	opacity: 0.5;
     
